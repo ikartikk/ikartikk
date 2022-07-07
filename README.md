@@ -1,4 +1,4 @@
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif)]
+[![MasterHead](https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif)]
 <h1 align="center">Hi 🖖, I'm Kartik Kumar</h1>
 <h3 align="center">A passionate student currently specialising in Data Science ,Machine learning and Deep learning.</h3>
 
