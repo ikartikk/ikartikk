@@ -1,4 +1,4 @@
-[![MasterHead](http://spencertipping.com/gpsa-error-animation-transparent.gif)]
+![MasterHead](http://spencertipping.com/gpsa-error-animation-transparent.gif)
 <h1 align="center">Hi 🖖, I'm Kartik Kumar</h1>
 <h3 align="center">A passionate student currently specialising in Data Science ,Machine learning and Deep learning.</h3>
 
