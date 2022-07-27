@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Kartik.capoor@gmail.com**
 
-- ⚡ Fun fact **I Have nice Sense of Humour**
+- ⚡ Fun fact **I Like Star Wars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
